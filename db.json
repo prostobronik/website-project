@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/crossfit.jpg",
+      "altimg": "vegy",
+      "title": "Сплит тренировка",
+      "descr": "1.Описание тренировочного процесса",
+      "price": 500
+    },
+    {
+      "img": "img/tabs/fitness.jpeg",
+      "altimg": "post",
+      "title": "Групповое занятие",
+      "descr": "1.Описание тренировочного процесса ",
+      "price": 300
+    },
+    {
+      "img": "img/tabs/pauer.jpg",
+      "altimg": "elite",
+      "title": "Индивидуальное занятие",
+      "descr": "1.Описание тренировочного процесса",
+      "price": 800
+    }
+  ],
+  "requests": [
+    
+  ]
+}
